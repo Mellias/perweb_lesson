@@ -1,2 +1,2 @@
-# materi_perweb
- Kumpulan materi latihan perancangan web
+# Perancangan Web's Lesson
+ Here is a collection of web design materials
